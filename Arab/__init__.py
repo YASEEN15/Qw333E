@@ -6,8 +6,8 @@ from .core.session import iqthon
 from .sql_helper.globals import addgvar, delgvar, gvarstatus
 __version__ = "7.7"
 __license__ = "GNU Affero General Public License v3.0"
-__author__ = "<t.me/iqthon>"
-__copyright__ = "telethon AR (C) 2020 - 2021  " + __author__
+__author__ = "<t.me/y_a_n_u_u>"
+__copyright__ = "YASEEN AR (C) 2020 - 2021  " + __author__
 iqthon.version = __version__
 iqthon.tgbot.version = __version__
 LOGS = logging.getLogger("y_a_n_u_u")
